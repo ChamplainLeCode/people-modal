@@ -11,5 +11,5 @@ this is a Flutter implementation of **People Modal** designed by
 
 ## Karee Documentation
 
-[**Karee**](https://github.com/karee) is another way to build Beautiful application using Flutter Framework with the power of MVC design pattern 
+[**Karee**](https://github.com/ChamplainLeCode/karee) is another way to build Beautiful application using Flutter Framework with the power of MVC design pattern 
 
